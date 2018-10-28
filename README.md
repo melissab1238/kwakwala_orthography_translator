@@ -12,3 +12,6 @@ NAPA &lt;--> U'mista orthography translator (Kwakwala language)
 * to practice JavaFX
 * to practice String/char concatenations
 * to understand unicode in Java
+
+## License
+  MIT License
